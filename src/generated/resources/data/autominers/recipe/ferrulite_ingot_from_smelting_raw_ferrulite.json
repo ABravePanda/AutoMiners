@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "ferrulite",
+  "ingredient": {
+    "item": "autominers:raw_ferrulite"
+  },
+  "result": {
+    "count": 1,
+    "id": "autominers:ferrulite_ingot"
+  }
+}

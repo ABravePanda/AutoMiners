@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "autominers:fortune_upgrade_card"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_upgrade_card": {
+      "conditions": {
+        "items": [
+          {
+            "items": "autominers:blank_upgrade_card"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_upgrade_card"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "autominers:fortune_upgrade_card"
+    ]
+  }
+}

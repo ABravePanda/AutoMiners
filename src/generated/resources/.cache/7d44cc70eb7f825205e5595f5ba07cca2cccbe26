@@ -1,0 +1,7 @@
+// 1.21.1	2024-10-17T20:04:46.1839112	Block States: autominers
+52a886ebfa6e9e77fd76cfae64d4cfc734e8f1f4 assets/autominers/blockstates/autominer.json
+4422d9fd9f7620ccb7be61e135d565a392926e22 assets/autominers/blockstates/ferrulite_ore.json
+6d418b51e3cef6722790c8d407282a382b235641 assets/autominers/models/block/autominer.json
+ae93590cd292ff1ba159c50c8263a2b56bc8cee3 assets/autominers/models/block/ferrulite_ore.json
+d8649d63d46d66a34707fa3ab760380a7d253a84 assets/autominers/models/item/autominer.json
+56df5d963fed5ee5599d6528d046c153cde943cb assets/autominers/models/item/ferrulite_ore.json

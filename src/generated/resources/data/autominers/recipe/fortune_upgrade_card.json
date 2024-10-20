@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "E": {
+      "item": "autominers:blank_upgrade_card"
+    },
+    "F": {
+      "item": "autominers:ferrulite_ingot"
+    },
+    "R": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "FEF",
+    "FRF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "autominers:fortune_upgrade_card"
+  }
+}

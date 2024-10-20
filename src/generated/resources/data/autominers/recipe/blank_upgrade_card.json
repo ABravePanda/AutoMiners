@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blue_dye"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    },
+    "F": {
+      "item": "autominers:ferrulite_ingot"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "FEF",
+    "FRF"
+  ],
+  "result": {
+    "count": 1,
+    "id": "autominers:blank_upgrade_card"
+  }
+}

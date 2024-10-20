@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.3,
+  "group": "ferrulite",
+  "ingredient": {
+    "item": "autominers:raw_ferrulite"
+  },
+  "result": {
+    "count": 1,
+    "id": "autominers:ferrulite_ingot"
+  }
+}

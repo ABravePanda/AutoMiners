@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ferrulite_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "autominers:ferrulite_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "autominers:blank_upgrade_card"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ferrulite_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "autominers:blank_upgrade_card"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "autominers:block/autominer"
+    }
+  }
+}

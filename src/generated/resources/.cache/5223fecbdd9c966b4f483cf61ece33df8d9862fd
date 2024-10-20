@@ -1,0 +1,3 @@
+// 1.21.1	2024-10-17T18:23:37.8243569	Tags for minecraft:block mod id autominers
+9ffc35c50ab49c06935ac845f88230026bfe9fdb data/minecraft/tags/block/mineable/pickaxe.json
+9ffc35c50ab49c06935ac845f88230026bfe9fdb data/minecraft/tags/block/needs_iron_tool.json

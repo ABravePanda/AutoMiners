@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_ferrulite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "autominers:raw_ferrulite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "autominers:ferrulite_ingot_from_blasting_raw_ferrulite"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_ferrulite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "autominers:ferrulite_ingot_from_blasting_raw_ferrulite"
+    ]
+  }
+}
