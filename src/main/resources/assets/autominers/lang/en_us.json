@@ -1,0 +1,19 @@
+{
+  "item.autominers.stone_drill" : "Stone Drill",
+
+  "item.autominers.raw_ferrulite" : "Raw Ferrulite",
+  "item.autominers.ferrulite_ingot" : "Ferrulite Ingot",
+  "item.autominers.ferrulite_nugget" : "Ferrulite Nugget",
+
+  "item.autominers.blank_upgrade_card" : "Blank Upgrade Card",
+  "item.autominers.fortune_upgrade_card" : "Fortune Upgrade Card",
+  "item.autominers.speed_upgrade_card" : "Speed Upgrade Card",
+  "item.autominers.revealing_upgrade_card" : "Revealing Upgrade Card",
+
+
+  "block.autominers.ferrulite_ore" : "Ferrulite Ore",
+  "block.autominers.autominer" : "AutoMiner",
+
+
+  "menu.autominer.title" : "AutoMiner"
+}
